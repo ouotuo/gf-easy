@@ -1,0 +1,26 @@
+{
+  "name": "node-easy",
+  "version": "0.0.2",
+  "description": "node easy utils",
+  "author":"ouotuo <ouotuo@gmail.com>",
+  "keywords":"node easy util",
+  "homepage":"https://github.com/ouotuo",
+  "repository":{"type":"git","url":"https://github.com/ouotuo/node-easy"},
+  "bugs":{"url":"https://github.com/ouotuo/node-easy/issues"},
+  "main":"index",
+  "private": false,
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-exec": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-clean": "",
+    "grunt-contrib-jasmine-node": "~0.1.1",
+    "grunt-contrib-watch": "~0.4.4"
+  }
+}
